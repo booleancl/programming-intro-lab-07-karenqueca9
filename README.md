@@ -11,3 +11,5 @@ Los diccionarios al igual que las listas son listados de valores, pero que se ac
 
 ## Misión
 Cuando termines el laboratorio agrega un link al repositorio.
+
+[misión cumplida](https://github.com/karenqueca9/lists_and_dicts)
